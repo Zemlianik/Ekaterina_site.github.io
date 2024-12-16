@@ -1,8 +1,7 @@
 
 
 .container{
-    max-width: 90%;
-    background-color: palegreen;
+        background-color: palegreen;
 }
 
 .hed{
@@ -12,10 +11,10 @@
 }
 
 video{
-    max-width: 60%;
+    max-width: 70%;
 }
 
-
+.dohod{max-width: 70%;}
 
 .t1{
     color: black;
@@ -62,6 +61,7 @@ video{
 
 
 .statistika{
+    max-width: 100%;
     display: flex;
     margin-top: 15px;
 }
@@ -90,6 +90,8 @@ video{
     text-align: center;
     color: red;
 }
+
+
 .wnutri{
     position: absolute;
     top: 50%;
