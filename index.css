@@ -223,19 +223,35 @@ video{
 
 
 @media (max-width: 480px) {
-  video{    max-width: 40%;}
+  video{    max-width: 60%;}
   .i1{
-    padding-top: 1%;
-    width: 200px;
-    height: 250px;
+    padding-top: 15%;
+    width: 150px;
+    height: 200px;
   }
   .t1{margin-top: 1%;    margin-left: 1%;}
+  .tt2{
+    padding-left: 5%;
+}
+.tt3{
+    padding-left: 10%;
+}
+.tt4{
+    padding-left: 15%;
+}
+
+.tt5{
+  padding-left: 20% ;
+}
+.v1{
+  display: inline;
+}
   .statistika{
     display: inline;
     margin-top: 15px;
   }
-  .s2{padding-left: 20%;} 
-  .s3{padding-left: 35%;}
+  .s2{padding-left: 15%;} 
+  .s3{padding-left: 25%;}
   .nizt{padding-left:12%;}
   .ramka{width: 280px; height: 420px;}
 }
