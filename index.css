@@ -11,10 +11,10 @@
 }
 
 video{
-    max-width: 70%;
+    max-width: 40%;
 }
 
-.dohod{max-width: 70%;}
+
 
 .t1{
     color: black;
@@ -61,7 +61,6 @@ video{
 
 
 .statistika{
-    max-width: 100%;
     display: flex;
     margin-top: 15px;
 }
@@ -90,8 +89,6 @@ video{
     text-align: center;
     color: red;
 }
-
-
 .wnutri{
     position: absolute;
     top: 50%;
