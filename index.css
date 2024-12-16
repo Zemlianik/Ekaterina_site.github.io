@@ -1,6 +1,7 @@
 
 
 .container{
+  
     background-color: palegreen;
 }
 
@@ -8,25 +9,30 @@
     padding-top: 10px;
     display: flex;
     color: red;
-}
 
+}
+.i1{width: 500px; height: 500px;}
 video{
-    max-width: 30%;
+    max-width: 60%;
 }
 
 .t1{
     color: black;
     margin-top: 5%;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 .tt2{
-    padding-left: 3%;
+    padding-left: 15%;
 }
 .tt3{
-    padding-left: 6%;
+    padding-left: 30%;
 }
 .tt4{
-    padding-left: 9%;
+    padding-left: 45%;
+}
+
+.tt5{
+  padding-left: 60% ;
 }
 
 .text2{
@@ -209,4 +215,27 @@ video{
 
 #slaid9:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
   transform: translateX(-700%);
+}
+
+
+
+
+
+
+@media (max-width: 480px) {
+  video{    max-width: 40%;}
+  .i1{
+    padding-top: 1%;
+    width: 200px;
+    height: 250px;
+  }
+  .t1{margin-top: 1%;    margin-left: 1%;}
+  .statistika{
+    display: inline;
+    margin-top: 15px;
+  }
+  .s2{padding-left: 20%;} 
+  .s3{padding-left: 35%;}
+  .nizt{padding-left:12%;}
+  .ramka{width: 280px; height: 420px;}
 }
