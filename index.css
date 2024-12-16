@@ -16,17 +16,17 @@ video{
 
 .t1{
     color: black;
-    margin-top: 70px;
-    margin-left: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
 }
 .tt2{
-    padding-left: 30px;
+    padding-left: 3%;
 }
 .tt3{
-    padding-left: 60px;
+    padding-left: 6%;
 }
 .tt4{
-    padding-left: 90px;
+    padding-left: 9%;
 }
 
 .text2{
@@ -38,18 +38,18 @@ video{
 }
 
 .text3{
-    padding-left: 20px;
-    padding-top: 70px;
+    padding-left: 5%;
+    padding-top: 15%;
 }
 
 .ttt9{
-    padding-top: 15px;
+    padding-top: 10%;
     padding-left: 30%;
-    font-size: 3.5rem;
+    font-size: 1.5rem;
 }
 .ttt10{
     padding-left: 15%;
-    font-size: 3rem;
+    font-size: 1.2rem;
 }
 
 .tttt3{
@@ -96,7 +96,7 @@ video{
 
 .adaptivny-slayder {
   position: relative;
-  max-width: 400px;
+  max-width: 600px;
   margin: 50px auto;
   box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
 }
