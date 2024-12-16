@@ -1,3 +1,5 @@
+
+
 .container{
     background-color: palegreen;
 }
@@ -7,6 +9,11 @@
     display: flex;
     color: red;
 }
+
+video{
+    max-width: 30%;
+}
+
 .t1{
     color: black;
     margin-top: 70px;
