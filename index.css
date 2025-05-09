@@ -11,13 +11,15 @@
     color: red;
 
 }
-.i1{width: 700px; height: 600px;}
+.i1{
+    width: 700px; height: 600px;
+}
 
 
 .t1{
     color: black;
-
     margin-left: 20%;
+    margin-top: 25%;
 }
 .tt2{
     padding-left: 15%;
